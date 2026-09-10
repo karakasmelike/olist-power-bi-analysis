@@ -5,7 +5,9 @@
 This Power BI project analyzes the Brazilian E-Commerce Public Dataset by Olist. The current version was created as part of a guided classroom exercise to practice data preparation, data modeling, DAX calculations, and dashboard design.
 
 The report structure and calculations were developed by following the course material. I customized the dashboard layout, colors, and formatting.
+## Dashboard Preview
 
+![Olist Power BI dashboard overview](dashboard_overview.png)
 ## Dataset
 
 The project uses the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), which contains information about orders, customers, products, payments, and delivery statuses.
